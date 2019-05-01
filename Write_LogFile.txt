@@ -1,0 +1,2 @@
+2019-04-30 06:08 First Log line
+2019-04-30 06:08 Second Log line
